@@ -422,3 +422,4 @@ where
 group by
     date_format(ordered_at, '%Y-%m')
     -- order_month;
+
